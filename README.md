@@ -14,7 +14,8 @@ create empty lists 11 and 12.
 use for loop to append the values into the list created.
 ### Step 5:
 print the product of two arrays.
-## PROGRAM: 
+## PROGRAM:
+~~~ 
 import numpy as np
 l1,l2=[],[]
 n=int(input())
@@ -26,6 +27,7 @@ array_1=np.array(l1)
 array_2=np.array(l2)
 product=array_1*array_2
 print("Product of two arrays is:",product)
+~~~
 ## OUTPUT:
 ![githublogo](bingo.jpg)
 ## RESULT:
